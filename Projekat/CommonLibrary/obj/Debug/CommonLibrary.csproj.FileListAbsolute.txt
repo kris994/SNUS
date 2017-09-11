@@ -1,0 +1,14 @@
+C:\Users\Dunja\Desktop\C++Projekat\CommonLibrary\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dunja\Desktop\C++Projekat\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Dunja\Desktop\C++Projekat\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Dunja\Desktop\C++Projekat\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Dunja\Desktop\C++Projekat\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\nykol\Desktop\NAS\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\nykol\Desktop\NAS\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\nykol\Desktop\NAS\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\nykol\Desktop\NAS\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\krist\Desktop\Projekat\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\krist\Desktop\Projekat\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\krist\Desktop\Projekat\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\krist\Desktop\Projekat\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\krist\Desktop\Projekat\CommonLibrary\obj\Debug\CommonLibrary.pdb
